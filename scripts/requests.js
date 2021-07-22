@@ -15,7 +15,6 @@ const Requests = {
             then(response => response.json()).
             then(result => cb(path_to_images + result.results[0].poster_path)).
             catch(error => console.error(error))
-
     },
 
     /**

@@ -1,7 +1,7 @@
 const CONFIG = {
     WIN_SOUND: '/sounds/win.wav',
     LOST_SOUND: '/sounds/lost.wav',
-    INITIAL_GUESSINGS: 5,
+    INITIAL_GUESSINGS: 3,
     MOVIE_NUM_WORDS: 2,
     GAME_STATUS: {
         WIN: 1,
